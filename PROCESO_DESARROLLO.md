@@ -9,7 +9,7 @@ Este documento registra los pasos técnicos, decisiones de diseño y fuentes de 
 ### 1.1. Encuesta de Población Activa (EPA) - Tasas de Paro
 * **Tabla seleccionada:** Tasas de paro por distintos grupos de edad, sexo y comunidad autónoma.
 * **Ruta de acceso:** `INEbase / Mercado laboral / Actividad, ocupación y paro / Encuesta de población activa / Resultados / Trimestrales / Series desde 2002 / Resultados por comunidades autónomas / Parados`.
-* **Rango Temporal:** 2016T1 - 2025T4 (40 trimestres/10 años).
+* **Rango Temporal:** 2016T1 - 2025T3 (39 trimestres/10 años).
 * **Dimensiones extraídas (en orden):** 1. Sexo (Ambos sexos, Hombres, Mujeres).
     2. Comunidades y Ciudades Autónomas (Nacional + 19 regiones).
     3. Edad (Total, Menores de 25 años, 25 y más años).
